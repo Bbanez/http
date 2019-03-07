@@ -8,11 +8,11 @@
 		<version>2.1.3.RELEASE</version>
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
-	<groupId>com.branislav.xyz</groupId>
-	<artifactId>branislav-xyz-http</artifactId>
-	<version>0.0.1-SNAPSHOT</version>
-	<name>branislav-xyz-http</name>
-	<description>Starter project with JWT security.</description>
+	<groupId>com.github.bbanez.http</groupId>
+	<artifactId>bbanez-http</artifactId>
+	<version>1.0-SNAPSHOT</version>
+	<name>bbanez-http</name>
+	<description>Library for handling HTTP requests and responses in Spring Boot using Apache Http Servlet.</description>
 
 	<properties>
 		<java.version>8</java.version>
